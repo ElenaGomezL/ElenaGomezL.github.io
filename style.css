@@ -1,0 +1,158 @@
+.head{
+    background-color: aliceblue;
+    height: 100%;
+    width: 100%;
+    padding: 1px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+.logo{
+    width: 100px;
+    height: 60px;
+    border-radius: 20px;
+    background-image: url(/Imagenes/Nutrir.jpeg);
+    background-size: 100%;
+    padding: 1em;
+    float: left;
+    margin: 10px;
+}
+.caja1{
+    background-color: ivory;
+    border: 1px solid black;
+    padding: 1em;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+.caja{
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    padding: 1em;
+}
+main{
+    background-color: beige;
+    height: 100%;
+    width: 90%;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}    
+aside{
+    background-color:azure;
+    height: 689px;
+    width: 320px;
+    float:right;
+    padding-top: 1em;
+}
+body{
+    background-image: url(/Imagenes/hosp.jpg); 
+    background-size: 100%;
+}
+.foto{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    background-image: url(/Imagenes/docentes.jpeg);
+    background-size: 100%;
+    margin: 10px;
+}
+.foto1{
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+    background-image: url(/Imagenes/foto1.jpeg);
+    background-size: 100%;
+    margin: 10px;
+}
+.formulario{
+    padding: 1em;
+    height: 100%;
+    width: 80%;
+    background-color:aliceblue;
+}
+.lau{
+    width: 50px;
+    height: 40px;
+    border-radius: 20px;
+    background-image: url(/Imagenes/laura.jpeg);
+    background-size: 100%;
+    padding: 1em;
+    float: left;
+    margin: 10px;
+}
+.leti{
+    width: 50px;
+    height: 40px;
+    border-radius: 20px;
+    background-image: url(/Imagenes/leticia.jpeg);
+    background-size: 100%;
+    padding: 1em;
+    float: left;
+    margin: 10px;
+}
+.geor{
+    width: 50px;
+    height: 40px;
+    border-radius: 20px;
+    background-image: url(Imagenes/geor.jpeg);
+    background-size: 100%;
+    padding: 1em;
+    float: left;
+    margin: 10px; 
+}
+.carli{
+    width: 50px;
+    height: 40px;
+    border-radius: 20px;
+    background-image: url(/Imagenes/carla.jpeg);
+    background-size: 100%;
+    padding: 1em;
+    float: left;
+    margin: 10px;
+}
+.ele{
+    width: 50px;
+    height: 40px;
+    border-radius: 20px;
+    background-image: url(/Imagenes/ele.jpeg);
+    background-size: 100%;
+    padding: 1em;
+    float: left;
+    margin: 10px;
+    
+}
+table{
+    background-color: antiquewhite;
+    padding: 1em;
+    width: 40%;
+    height: 90%
+}
+.nombres{
+    text-align: center;
+    background-color: aliceblue;
+}
+.dia{
+    text-align: center;
+}
+.horarios{
+    text-align: center;
+}
+
+.foot{
+    margin-top:10px;
+    background-color: antiquewhite;
+    height: 50px;
+    width: 100%;
+    float:inline-end;
+    text-align: center;
+    padding-top: 10px;
+}
+
